@@ -12,7 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Dyukarev_v_12">
         <activity
-            android:name=".MainActivity"
+            android:name=".Setting_manager"
+            android:exported="false" />
+        <activity
+            android:name=".News_feed"
+            android:exported="false" />
+        <activity
+            android:name=".Authorization"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
