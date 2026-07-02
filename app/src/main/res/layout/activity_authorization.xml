@@ -41,7 +41,7 @@
         android:layout_marginTop="24dp"
         android:backgroundTint="#D61C1C"
         android:drawableStart="@android:drawable/ic_lock_idle_lock"
-        android:drawableEnd="@drawable/ic_eye_custom"
+        android:drawableEnd="@drawable/remove_red_eye"
         android:drawablePadding="16dp"
         android:drawableTint="#D61C1C"
         android:hint="Пароль"
